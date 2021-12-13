@@ -14,4 +14,21 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\rabbit.pcd">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="milk.pcd">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="milk_cartoon_all_small_clorox.pcd">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pcd_open.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

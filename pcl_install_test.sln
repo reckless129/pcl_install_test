@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcl_install_test", "pcl_install_test\pcl_install_test.vcxproj", "{BDDAB897-0B63-4AA2-A507-676391084F41}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcl_3D_Object_Recognition_example", "pcl_install_test\pcl_install_test.vcxproj", "{BDDAB897-0B63-4AA2-A507-676391084F41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
